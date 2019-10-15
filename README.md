@@ -3,5 +3,6 @@
 this is a test
 
 starting develop
+feature 1.2
 
 adding to develop
