@@ -3,4 +3,4 @@
 this is a test
 
 starting develop
-feature 1
+feature 1.2
